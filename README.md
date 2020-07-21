@@ -10,7 +10,9 @@ Lista de usuários e estatísticas da pesquisa desenvolvido no bootcamp fullstac
 
 ## API utilizada para consumo de usuários
 
-[Links](https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo)
+<!-- [Links](https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo)-->
+
+`<link>` : <https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo>
 
 <!--
 [![img.png](https://i.postimg.cc/3w8LgM61/img.png)](https://postimg.cc/qNFXTFp6)
@@ -22,6 +24,9 @@ Lista de usuários e estatísticas da pesquisa desenvolvido no bootcamp fullstac
 - **JavaScript**
 - **CSS**
 - **Json**
+- **Materialize-css**
+- **cloudflare**
+- **ES6+**
 
 ## Desenvolvedor
 
