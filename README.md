@@ -1,6 +1,6 @@
 # Lista de Usuários consumindo API
 
-Lista de usuário e estatísticas da pesquisa desenvolvido no bootcamp fullstack da IGTI
+Lista de usuários e estatísticas da pesquisa desenvolvido no bootcamp fullstack da IGTI
 
 ## Html 🎯
 
