@@ -1,4 +1,5 @@
-# Lista de Usuários consumidos via API
+# Lista de Usuários consumidos via API         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+
 Lista de usuários e estatísticas da pesquisa desenvolvido no bootcamp fullstack da IGTI
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
@@ -15,7 +16,7 @@ Lista de usuários e estatísticas da pesquisa desenvolvido no bootcamp fullstac
 1. Clonar o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod1-pesquisa-de-usuarios-api.git`
 2. Na pasta raiz, executar o arquivo: `index.html`
 <!-- :hammer:-->
-## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e tecnologias utilizadas:    
+## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:    
 
 - **[HTML](https://www.w3schools.com/html/)**
 - **[JavaScript](https://www.w3schools.com/js/)**
@@ -33,6 +34,10 @@ Lista de usuários e estatísticas da pesquisa desenvolvido no bootcamp fullstac
 4. _Push_ (`git push origin feature/[nome]`)
 5. Crie um novo _Pull Request_
 
+## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
+
+Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/igti-fullstack-mod1-pesquisa-de-usuarios-api/blob/master/LICENSE) para obter mais informações.
+
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
 <img src="https://avatars.githubusercontent.com/cicerorod" width=115>
@@ -43,4 +48,8 @@ Lista de usuários e estatísticas da pesquisa desenvolvido no bootcamp fullstac
 [![](https://img.icons8.com/material-rounded/29/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
 [![](https://img.icons8.com/metro/26/000000/email.png)](mailto:cicerorod@gmail.com)
 
-<a href="https://icons8.com/">icon by Icons8</a>
+<p align="center">
+  <img src="https://img.icons8.com/wired/32/000000/icons8-new-logo.png" >
+  </br>
+  <a href="https://icons8.com/icon/">Icons by Icons8</a>
+</p>
